@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/public-gazzella/static/js/main.dfe5adb8.js",
+    "static/js/787.dd4029b4.chunk.js": "/public-gazzella/static/js/787.dd4029b4.chunk.js",
+    "static/media/logo.png": "/public-gazzella/static/media/logo.504fdd748e39820d9787.png",
+    "static/media/logo.svg": "/public-gazzella/static/media/logo.7dc8e7706792f3c960956a49b336bfab.svg",
+    "index.html": "/public-gazzella/index.html",
+    "main.dfe5adb8.js.map": "/public-gazzella/static/js/main.dfe5adb8.js.map",
+    "787.dd4029b4.chunk.js.map": "/public-gazzella/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfe5adb8.js"
+  ]
+}
